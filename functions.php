@@ -1,5 +1,6 @@
 <?php
 
+//
 // style.cssを読み込む（header.phpではCSS読み込み不要）
 function read_enqueue_styles() {
   wp_enqueue_style( 'main-style', get_stylesheet_uri() );
