@@ -1,1 +1,1 @@
-# wp-sakura 2
+# wp-sakura
